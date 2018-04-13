@@ -1,0 +1,5 @@
+[
+    ClientId = "",
+    ClientSecret = "",
+    CallbackUrl = "https://preview.powerbi.com/views/oauthredirect.html"
+]
